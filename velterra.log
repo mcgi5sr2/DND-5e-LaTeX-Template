@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.4)  4 AUG 2019 16:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.4)  4 AUG 2019 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1560,6 +1560,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--6
  [][] \T1/pbk/l/n/10 (+20) Episode 2: In the Tiki, Tiki, Tiki, 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+ [][] \T1/pbk/l/n/10 (+20) Episode 7: Mys-te-ri-ous In-ci-dent of 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+ [][] \T1/pbk/l/n/10 (+20) Episode 9: Live Free or R.I.P. Hard 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+ \T1/pbk/l/n/10 (+20) (In lov-ing mem-ory of Lady 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+ [][] \T1/pbk/l/n/10 (+20) Episode 9.1: Kolo's Tale (Part 1): 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+ \T1/pbk/l/n/10 (+20) The Greasy Rage of Clan 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+ [][] \T1/pbk/l/n/10 (+20) Episode 9.2: Kolo's Tale (Part 2): 
+ []
+
 )
 \tf@toc=\write6
 \openout6 = `velterra.toc'.
@@ -1847,66 +1877,294 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 59.
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 41.21213pt (D);
-(lettrine.sty)             reported on input line 1.
+(lettrine.sty)             reported on input line 2.
+
+Underfull \vbox (badness 6396) has occurred while \output is active []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 36.
+Package pdftex.def Info: img/paper.jpg  used on input line 37.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 36.
+Package pdftex.def Info: img/paper.jpg  used on input line 37.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 36.
+Package pdftex.def Info: img/paper.jpg  used on input line 37.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 36.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 37.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [12
 
 ])
+(./content/eps/7.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 38.87642pt (P);
+(lettrine.sty)             reported on input line 2.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(./content/eps/8.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 40.90071pt (A);
+(lettrine.sty)             reported on input line 2.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 90.
+Package pdftex.def Info: img/paper.jpg  used on input line 15.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 90.
+Package pdftex.def Info: img/paper.jpg  used on input line 15.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 90.
+Package pdftex.def Info: img/paper.jpg  used on input line 15.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 90.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 15.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[13
 
-]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 62.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 62.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 62.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 62.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [14])
+(./content/eps/9.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 2.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 29.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 29.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 29.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 29.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 76.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 76.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 76.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 76.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 118.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 118.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 118.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 118.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 152.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 152.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 152.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 152.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(./content/eps/91.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 2.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 7.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 7.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 7.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 7.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(./content/eps/92.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 2.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 3.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 3.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 3.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 3.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 29.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 29.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 29.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 29.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 94.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 94.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 94.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 94.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [22]
 Chapter 3.
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 41.41977pt (T);
-(lettrine.sty)             reported on input line 92.
+(lettrine.sty)             reported on input line 96.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <20.74> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 94.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 98.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <20.74> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 94.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 98.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 100.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 104.
 LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
-(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 103.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 110.
+(Font)              Font shape `T1/pbk/db/sl' tried instead on input line 107.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 114.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
@@ -1916,40 +2174,40 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 149.
+Package pdftex.def Info: img/paper.jpg  used on input line 153.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 149.
+Package pdftex.def Info: img/paper.jpg  used on input line 153.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 149.
+Package pdftex.def Info: img/paper.jpg  used on input line 153.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 149.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 153.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [14
+ [23
 
 ]
 Chapter 4.
 LaTeX Font Info:    Try loading font information for T1+GilliusADFNoTwo-LF on i
-nput line 154.
+nput line 158.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/gillius/T1GilliusADFNoTwo-LF.fd
 File: T1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for T1/Gil
 liusADFNoTwo-LF.
 )
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 154.
+(Font)              scaled to size 10.0pt on input line 158.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `GilliusADFNoTwo-LF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 154.
+(Font)              scaled to size 9.0pt on input line 158.
 Missing character: There is no ; in font nullfont!
-LaTeX Font Info:    Try loading font information for T1+jkpss on input line 160
+LaTeX Font Info:    Try loading font information for T1+jkpss on input line 164
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/kpfonts/t1jkpss.fd
@@ -1963,71 +2221,71 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/b/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <9> not available
-(Font)              Font shape `T1/pbk/l/n' tried instead on input line 161.
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 165.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 180.
+Package pdftex.def Info: img/paper.jpg  used on input line 184.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 180.
+Package pdftex.def Info: img/paper.jpg  used on input line 184.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 180.
+Package pdftex.def Info: img/paper.jpg  used on input line 184.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 180.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 184.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [15
+ [24
 
 
 ]
 Chapter 5.
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <10> not available
-(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 183.
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 187.
 LaTeX Font Info:    Font shape `T1/pbk/b/sc' in size <17.28> not available
-(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 183.
+(Font)              Font shape `T1/pbk/db/sc' tried instead on input line 187.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 185.
+(Font)              scaled to size 9.0pt on input line 189.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <9> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 192.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 196.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/sl' in size <9> not ava
 ilable
 (Font)              Font shape `T1/GilliusADFNoTwo-LF/m/it' tried instead on in
-put line 215.
+put line 219.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 215.
+(Font)              scaled to size 9.0pt on input line 219.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/sl' in size <9> not ava
 ilable
 (Font)              Font shape `T1/GilliusADFNoTwo-LF/b/it' tried instead on in
-put line 215.
+put line 219.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/b/it' will be
-(Font)              scaled to size 9.0pt on input line 215.
+(Font)              scaled to size 9.0pt on input line 219.
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--218
+Underfull \hbox (badness 10000) in paragraph at lines 219--222
 \T1/GilliusADFNoTwo-LF/b/it/9 Innate Spell-cast-ing. \T1/GilliusADFNoTwo-LF/m/n
 /9 Foo's spell-cast-ing abil-ity is Charisma (spell
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--218
+Underfull \hbox (badness 10000) in paragraph at lines 219--222
 \T1/GilliusADFNoTwo-LF/m/n/9 save DC 12, +4 to hit with spell at-tacks). It can
  in-nately cast the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--226
+Underfull \hbox (badness 10000) in paragraph at lines 227--230
 \T1/GilliusADFNoTwo-LF/b/it/9 Spellcasting. \T1/GilliusADFNoTwo-LF/m/n/9 Foo is
  a 2nd-level spell-caster. Its spell-cast-ing abil-ity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--226
+Underfull \hbox (badness 10000) in paragraph at lines 227--230
 \T1/GilliusADFNoTwo-LF/m/n/9 is Charisma (spell save DC 12, +4 to hit with spel
 l at-tacks). It has
  []
@@ -2039,123 +2297,123 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
 \T1/GilliusADFNoTwo-LF/b/it/9 Dagger. \T1/GilliusADFNoTwo-LF/m/it/9 Melee or Ra
 nged Weapon At-tack: \T1/GilliusADFNoTwo-LF/m/n/9 +3 to hit, reach 5 ft.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
 \T1/GilliusADFNoTwo-LF/b/it/9 Flame Tongue Longsword. \T1/GilliusADFNoTwo-LF/m/
 it/9 Melee Weapon At-tack: \T1/GilliusADFNoTwo-LF/m/n/9 +3 to hit,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
 \T1/GilliusADFNoTwo-LF/m/n/9 reach 5 ft., one tar-get. \T1/GilliusADFNoTwo-LF/m
 /it/9 Hit: \T1/GilliusADFNoTwo-LF/m/n/9 5 (1d8 + 1) slash-ing dam-age, or 6
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
 \T1/GilliusADFNoTwo-LF/m/n/9 (1d10 + 1) slash-ing dam-age if used with two hand
 s, plus 7 (2d6)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
 \T1/GilliusADFNoTwo-LF/b/it/9 Assassin's Light Cross-bow. \T1/GilliusADFNoTwo-L
 F/m/it/9 Ranged Weapon At-tack: \T1/GilliusADFNoTwo-LF/m/n/9 +1 to hit,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
 \T1/GilliusADFNoTwo-LF/m/n/9 range 80/320 ft., one tar-get. \T1/GilliusADFNoTwo
 -LF/m/it/9 Hit: \T1/GilliusADFNoTwo-LF/m/n/9 4 (1d8) pierc-ing dam-age,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
 \T1/GilliusADFNoTwo-LF/m/n/9 and the tar-get must make a DC 15 Con-sti-tu-tion 
 sav-ing throw,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
 \T1/GilliusADFNoTwo-LF/m/n/9 tak-ing 24 (7d6) poi-son dam-age on a failed save,
  or half as much
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--284
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
 \T1/GilliusADFNoTwo-LF/m/n/9 The foo can take 3 leg-endary ac-tions, choos-ing 
 from the op-tions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--284
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
 \T1/GilliusADFNoTwo-LF/m/n/9 be-low. Only one leg-endary ac-tion op-tion can be
  used at a time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--284
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
 \T1/GilliusADFNoTwo-LF/m/n/9 and only at the end of an-other crea-ture's turn. 
 The foo re-gains
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 []\T1/GilliusADFNoTwo-LF/m/n/9 The foo presents a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 \T1/GilliusADFNoTwo-LF/m/n/9 con-tract in a lan-guage it knows and waves it in 
 the face of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 \T1/GilliusADFNoTwo-LF/m/n/9 a crea-ture within 10 feet. The crea-ture must mak
 e a DC
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 \T1/GilliusADFNoTwo-LF/m/n/9 10 In-tel-li-gence sav-ing throw. On a fail-ure, t
 he crea-ture is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 \T1/GilliusADFNoTwo-LF/m/n/9 in-ca-pac-i-tated un-til the start of the foo's ne
 xt turn. A crea-ture
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 \T1/GilliusADFNoTwo-LF/m/n/9 who can-not read the lan-guage in which the con-tr
 act is writ-ten
  []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 295.
+Package pdftex.def Info: img/paper.jpg  used on input line 299.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 295.
+Package pdftex.def Info: img/paper.jpg  used on input line 299.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 295.
+Package pdftex.def Info: img/paper.jpg  used on input line 299.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 295.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 299.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[16
+[25
 
 
 ]
@@ -2164,35 +2422,35 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-LaTeX Warning: \verb may be unreliable inside tabularx on input line 310.
+LaTeX Warning: \verb may be unreliable inside tabularx on input line 314.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 379.
+Package pdftex.def Info: img/paper.jpg  used on input line 383.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 379.
+Package pdftex.def Info: img/paper.jpg  used on input line 383.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 379.
+Package pdftex.def Info: img/paper.jpg  used on input line 383.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 379.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 383.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[17
+[26
 
 ] (./velterra.aux) ) 
 Here is how much of TeX's memory you used:
- 38244 strings out of 492609
- 741426 string characters out of 6129034
+ 38331 strings out of 492609
+ 743205 string characters out of 6129034
  1183001 words of memory out of 5000000
- 41357 multiletter control sequences out of 15000+600000
+ 41429 multiletter control sequences out of 15000+600000
  626727 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,17n,122p,866b,2213s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,18n,122p,1152b,2213s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r
 .enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc
 }</usr/local/texlive/2019/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2
@@ -2208,10 +2466,10 @@ pe1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/
 bookman/ubkl8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/bookman/
 ubkli8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrb8a.
 pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on velterra.pdf (21 pages, 3501566 bytes).
+Output written on velterra.pdf (30 pages, 3552288 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
+ 170 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  40491 words of extra memory for PDF output out of 42996 (max. 10000000)
 
