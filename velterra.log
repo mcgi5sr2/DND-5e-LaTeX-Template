@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.4)  4 AUG 2019 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.4)  4 AUG 2019 16:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1614,6 +1614,12 @@ LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <14.4> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <10> not available
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 3.
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 41.52357pt (W);
+(lettrine.sty)             reported on input line 3.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 23.
@@ -1633,7 +1639,7 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 23.
  [2
 
 ]
-<./content/img/pilch1.jpg, id=31, 502.87875pt x 769.87625pt>
+<./content/img/pilch1.jpg, id=32, 502.87875pt x 769.87625pt>
 File: ./content/img/pilch1.jpg Graphic file (type jpg)
 <use ./content/img/pilch1.jpg>
 Package pdftex.def Info: ./content/img/pilch1.jpg  used on input line 33.
@@ -1658,6 +1664,10 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 38.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [3 <./content/img/pilch1.jpg>]) (./content/eps/2.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 3.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 34.
@@ -1677,7 +1687,7 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 34.
  [4
 
 ]
-<./content/img/kolo2.png, id=39, 330.23375pt x 393.47pt>
+<./content/img/kolo2.png, id=40, 330.23375pt x 393.47pt>
 File: ./content/img/kolo2.png Graphic file (type png)
 <use ./content/img/kolo2.png>
 Package pdftex.def Info: ./content/img/kolo2.png  used on input line 48.
@@ -1702,21 +1712,25 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 53.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [5 <./content/img/kolo2.png>]) (./content/eps/3.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 3.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 34.
+Package pdftex.def Info: img/paper.jpg  used on input line 32.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 34.
+Package pdftex.def Info: img/paper.jpg  used on input line 32.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 34.
+Package pdftex.def Info: img/paper.jpg  used on input line 32.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 34.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 32.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [6
 
@@ -1738,7 +1752,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 71.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [7]
-<./content/img/otoria1.png, id=51, 702.625pt x 702.625pt>
+<./content/img/otoria1.png, id=52, 702.625pt x 702.625pt>
 File: ./content/img/otoria1.png Graphic file (type png)
 <use ./content/img/otoria1.png>
 Package pdftex.def Info: ./content/img/otoria1.png  used on input line 73.
@@ -1762,6 +1776,10 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 78.
  [8
 
  <./content/img/otoria1.png>]) (./content/eps/4.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 41.36784pt (R);
+(lettrine.sty)             reported on input line 3.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 62.
@@ -1798,7 +1816,11 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 141.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [10]) (./content/eps/5.tex
-<./content/img/otoriagrave.png, id=63, 1027.84pt x 713.66624pt>
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 41.26405pt (S);
+(lettrine.sty)             reported on input line 11.
+<./content/img/otoriagrave.png, id=64, 1027.84pt x 713.66624pt>
 File: ./content/img/otoriagrave.png Graphic file (type png)
 <use ./content/img/otoriagrave.png>
 Package pdftex.def Info: ./content/img/otoriagrave.png  used on input line 54.
@@ -1822,6 +1844,11 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 59.
  [11
 
  <./content/img/otoriagrave.png>]) (./content/eps/6.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 41.21213pt (D);
+(lettrine.sty)             reported on input line 1.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1867,8 +1894,6 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 90.
 
 ]
 Chapter 3.
-LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <10> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 92.
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 41.41977pt (T);
@@ -2163,7 +2188,7 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 379.
 Here is how much of TeX's memory you used:
  38244 strings out of 492609
  741426 string characters out of 6129034
- 1184001 words of memory out of 5000000
+ 1183001 words of memory out of 5000000
  41357 multiletter control sequences out of 15000+600000
  626727 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2183,7 +2208,7 @@ pe1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/
 bookman/ubkl8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/bookman/
 ubkli8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrb8a.
 pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on velterra.pdf (21 pages, 3481767 bytes).
+Output written on velterra.pdf (21 pages, 3501566 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  95 compressed objects within 1 object stream
