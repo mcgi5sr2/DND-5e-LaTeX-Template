@@ -1,0 +1,31 @@
+\babel@toc {english}{}
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Characters}{1}% 
+\contentsline {chapter}{\numberline {2}Episodes}{2}% 
+\contentsline {subsection}{Episode 1: Riphard Begins}{2}% 
+\contentsline {subsection}{Episode 2: In the Tiki, Tiki, Tiki, Tiki, Tiki Room}{4}% 
+\contentsline {subsection}{Episode 3: The Horse Whisperer}{6}% 
+\contentsline {subsection}{Episode 4: Whores or Boars?}{9}% 
+\contentsline {subsection}{Episode 5: Pitter Patter of Tiny Bears}{11}% 
+\contentsline {chapter}{\numberline {3}Template Guide}{14}% 
+\contentsline {section}{Section}{14}% 
+\contentsline {subsection}{Subsection}{14}% 
+\contentsline {subsubsection}{Subsubsection}{14}% 
+\contentsline {paragraph}{Paragraph}{14}% 
+\contentsline {subparagraph}{Subparagraph}{14}% 
+\contentsline {section}{Items and Spells}{14}% 
+\contentsline {subsubsection}{Foo's Quill}{14}% 
+\contentsline {subsubsection}{Beautiful Typesetting}{14}% 
+\contentsline {section}{Map Regions}{14}% 
+\contentsline {subsection}{1. Village of Hommlet}{14}% 
+\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{14}% 
+\contentsline {subsubsection}{1b. Blacksmith's Forge}{14}% 
+\contentsline {subsection}{2. Foo's Castle}{14}% 
+\contentsline {subsubsection}{2a. Moat}{14}% 
+\contentsline {subsubsection}{2b. Entrance}{14}% 
+\contentsline {chapter}{\numberline {4}Text Boxes}{15}% 
+\contentsline {section}{As an Aside}{15}% 
+\contentsline {section}{Tables}{15}% 
+\contentsline {chapter}{\numberline {5}Monsters and NPCs}{16}% 
+\contentsline {chapter}{\numberline {6}Colors}{17}% 
+\contentsline {section}{Themed Colors}{17}% 
