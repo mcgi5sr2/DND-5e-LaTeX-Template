@@ -22,25 +22,38 @@
 \contentsline {subsection}{Episode 10: A Pretzel of Pointless Adventures}{25}% 
 \contentsline {subsection}{Episode 11: Voyagers of the Cloudship Nontaprise}{26}% 
 \contentsline {subsection}{Episode 12: The Marshal Methias EP}{27}% 
-\contentsline {chapter}{\numberline {3}Template Guide}{29}% 
-\contentsline {section}{Section}{29}% 
-\contentsline {subsection}{Subsection}{29}% 
-\contentsline {subsubsection}{Subsubsection}{29}% 
-\contentsline {paragraph}{Paragraph}{29}% 
-\contentsline {subparagraph}{Subparagraph}{29}% 
-\contentsline {section}{Items and Spells}{29}% 
-\contentsline {subsubsection}{Foo's Quill}{29}% 
-\contentsline {subsubsection}{Beautiful Typesetting}{29}% 
-\contentsline {section}{Map Regions}{29}% 
-\contentsline {subsection}{1. Village of Hommlet}{29}% 
-\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{29}% 
-\contentsline {subsubsection}{1b. Blacksmith's Forge}{29}% 
-\contentsline {subsection}{2. Foo's Castle}{29}% 
-\contentsline {subsubsection}{2a. Moat}{29}% 
-\contentsline {subsubsection}{2b. Entrance}{29}% 
-\contentsline {chapter}{\numberline {4}Text Boxes}{30}% 
-\contentsline {section}{As an Aside}{30}% 
-\contentsline {section}{Tables}{30}% 
-\contentsline {chapter}{\numberline {5}Monsters and NPCs}{31}% 
-\contentsline {chapter}{\numberline {6}Colors}{32}% 
-\contentsline {section}{Themed Colors}{32}% 
+\contentsline {subsection}{Episode 13: Nobody Expects the...}{28}% 
+\contentsline {subsection}{Episode 14: Lemon Stealing Whore}{29}% 
+\contentsline {subsection}{Episode 15: Just Dessert - and some bird people}{32}% 
+\contentsline {subsection}{Episode 16: I'll Bite your facking face off}{34}% 
+\contentsline {subsection}{Episode 17: Hopes Rest}{35}% 
+\contentsline {subsection}{Episode 18: Why Do You Guild Me Up?}{37}% 
+\contentsline {subsection}{Episode 19: Shopping Land Business Channel - Part 2}{39}% 
+\contentsline {subsection}{Episode 20: Bizznizz for Banks \& Emancipation for the Few not the Many}{41}% 
+\contentsline {subsection}{Episode 21: Of Kokaine and Kevlar}{43}% 
+\contentsline {subsection}{Episode 22: Life and Sole of the Party}{44}% 
+\contentsline {subsection}{Episode 23: Illegal Fake Goblin Ham Meat Ring}{46}% 
+\contentsline {subsection}{Episode 24: The Brightest Flame Casts the Darkest Shadow}{48}% 
+\contentsline {subsection}{Episode 25: Terrible Trebuchets and Tenatious Tiki-tuks}{51}% 
+\contentsline {chapter}{\numberline {3}Template Guide}{53}% 
+\contentsline {section}{Section}{53}% 
+\contentsline {subsection}{Subsection}{53}% 
+\contentsline {subsubsection}{Subsubsection}{53}% 
+\contentsline {paragraph}{Paragraph}{53}% 
+\contentsline {subparagraph}{Subparagraph}{53}% 
+\contentsline {section}{Items and Spells}{53}% 
+\contentsline {subsubsection}{Foo's Quill}{53}% 
+\contentsline {subsubsection}{Beautiful Typesetting}{53}% 
+\contentsline {section}{Map Regions}{53}% 
+\contentsline {subsection}{1. Village of Hommlet}{53}% 
+\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{53}% 
+\contentsline {subsubsection}{1b. Blacksmith's Forge}{53}% 
+\contentsline {subsection}{2. Foo's Castle}{53}% 
+\contentsline {subsubsection}{2a. Moat}{53}% 
+\contentsline {subsubsection}{2b. Entrance}{53}% 
+\contentsline {chapter}{\numberline {4}Text Boxes}{54}% 
+\contentsline {section}{As an Aside}{54}% 
+\contentsline {section}{Tables}{54}% 
+\contentsline {chapter}{\numberline {5}Monsters and NPCs}{55}% 
+\contentsline {chapter}{\numberline {6}Colors}{56}% 
+\contentsline {section}{Themed Colors}{56}% 
