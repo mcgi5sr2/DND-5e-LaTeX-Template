@@ -20,6 +20,8 @@
 \usepackage{listings}
 \usepackage{shortvrb}
 \usepackage{stfloats}
+\usepackage{pdfpages}
+\usepackage{multicol}
 
 \captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
 
@@ -34,9 +36,29 @@
 \title{Velterra{} \\
 \large Sinners Never Sleep}
 \author{A Dungeons and Dragons Adventure}
-\date{2019/07/18}
+\date{2019/09/29}
+
+\begin{comment}
+TO DO
+
+- Make a input file for "misc characters" and just have a title pic and short summary for each of the secondary characters, all running into eachother rather than one page each. 
+- Velterra world section - key locations.  Backstory of the Gods (put the list of gods in a sidebox thing)
+- add in mike's classes as appendices 
+
+
+\end{comment}
 
 \begin{document}
+
+
+
+% I have no idea why this will not just update the first page and put the pdf in????  Maybe something to do with the background iamge that is already there
+
+%\includepdf[pages={1},pagecommand={},width=\textwidth]{./img/mockCover.pdf}
+
+\vspace*{-15mm}
+\hspace*{-117mm}
+\includegraphics{./img/mockCover.pdf}
 
 \twocolumn
 
@@ -48,16 +70,46 @@
 
 \tableofcontents
 
-\mainmatter%
+\mainmatter
 
-\chapter{Characters}
-\input{content/chars/kolo.tex}
-\input{content/chars/martin.tex}
-\input{content/chars/toni.tex}
+\onecolumn
+\chapter{The Story}
+\input{content/story/background.tex}
+\twocolumn
+\input{content/story/theGods.tex}
+\input{content/story/groups.tex}
+
+\onecolumn
+\chapter{The World of Velterra}
+\input{content/world/vel.tex}
+\input{content/world/locations.tex}
 
 \twocolumn
+\chapter{Characters}
+\input{content/chars/kolo.tex}
+\input{content/chars/exme.tex}
+\input{content/chars/riphard.tex}
+\input{content/chars/pilcheur.tex}
+\input{content/chars/otoria.tex}
+\input{content/chars/gary.tex}
+\input{content/chars/mark.tex}
+\input{content/chars/burnie.tex}
+\input{content/chars/myron.tex}
+\input{content/chars/martin.tex}
+\input{content/chars/toni.tex}
+\input{content/chars/miscCharacters.tex}
+
+\onecolumn
+\chapter{Gear}
+\input{content/gear/theGary.tex}
+\input{content/gear/STANRI.tex}
+\input{content/gear/weapons.tex}
+\input{content/gear/misc.tex}
+
+\onecolumn
 \chapter{Episodes}
 \input{content/eps/1.tex}
+\twocolumn
 \input{content/eps/2.tex}
 \input{content/eps/3.tex}
 \input{content/eps/4.tex}
@@ -85,6 +137,8 @@
 \input{content/eps/23.tex}
 \input{content/eps/24.tex}
 \input{content/eps/25.tex}
+
+
 
 
 %%% Following sections are just how to do the fancy formatting available
