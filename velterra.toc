@@ -112,37 +112,37 @@
 \contentsline {subsection}{Episode 25: Terrible Trebuchets and Tenatious Tiki-tuks}{84}%
 \contentsline {subsection}{Episode 26: Never Walk a Stone}{84}%
 \contentsline {section}{Episode 27: Making New Friends is Fun but Losing Mark is Funner}{86}%
-\contentsline {section}{Episode 29: In a While, Crocodile}{94}%
-\contentsline {subsection}{Episode 28: Pets Win Prizes}{101}%
-\contentsline {subsection}{Episode 30: Lessons in Colour Theory. and Dem BONES!}{102}%
-\contentsline {section}{Episode 31: NOTICE ME SENPAI!!!}{103}%
-\contentsline {subsection}{Episode 32: Difficulty level Spoopy}{111}%
-\contentsline {section}{Episode 33: I Aint Afraid of No... Semi-Sentient Discorporeal Energy Sources}{112}%
-\contentsline {subsection}{Episode 33.5a: Quantum Bookburners Creed: Special Child Meat Edition}{115}%
-\contentsline {subsection}{Episode 33.5b: Huey Shitpirate and the News}{115}%
-\contentsline {subsection}{Episode 33.5c: Two days from retirement}{116}%
-\contentsline {subsection}{Episode 33.75: Bobacious Takes On Chrismas}{118}%
-\contentsline {subsection}{Episode 34: Turning Masudese}{122}%
-\contentsline {section}{Episode 35: Lord of Lightning Shifts His Gaze}{125}%
-\contentsline {chapter}{\numberline {6}Template Guide}{129}%
-\contentsline {section}{Section}{129}%
-\contentsline {subsection}{Subsection}{129}%
-\contentsline {subsubsection}{Subsubsection}{129}%
-\contentsline {paragraph}{Paragraph}{129}%
-\contentsline {subparagraph}{Subparagraph}{129}%
-\contentsline {section}{Items and Spells}{129}%
-\contentsline {subsubsection}{Foo's Quill}{129}%
-\contentsline {subsubsection}{Beautiful Typesetting}{129}%
-\contentsline {section}{Map Regions}{129}%
-\contentsline {subsection}{1. Village of Hommlet}{129}%
-\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{129}%
-\contentsline {subsubsection}{1b. Blacksmith's Forge}{129}%
-\contentsline {subsection}{2. Foo's Castle}{129}%
-\contentsline {subsubsection}{2a. Moat}{129}%
-\contentsline {subsubsection}{2b. Entrance}{129}%
-\contentsline {chapter}{\numberline {7}Text Boxes}{130}%
-\contentsline {section}{As an Aside}{130}%
-\contentsline {section}{Tables}{130}%
-\contentsline {chapter}{\numberline {8}Monsters and NPCs}{131}%
-\contentsline {chapter}{\numberline {9}Colors}{132}%
-\contentsline {section}{Themed Colors}{132}%
+\contentsline {subsection}{Episode 28: Pets Win Prizes}{90}%
+\contentsline {section}{Episode 29: In a While, Crocodile}{90}%
+\contentsline {subsection}{Episode 30: Lessons in Colour Theory. and Dem BONES!}{94}%
+\contentsline {section}{Episode 31: NOTICE ME SENPAI!!!}{95}%
+\contentsline {subsection}{Episode 32: Difficulty level Spoopy}{99}%
+\contentsline {section}{Episode 33: I Aint Afraid of No... Semi-Sentient Discorporeal Energy Sources}{100}%
+\contentsline {subsection}{Episode 33.5a: Quantum Bookburners Creed: Special Child Meat Edition}{102}%
+\contentsline {subsection}{Episode 33.5b: Huey Shitpirate and the News}{102}%
+\contentsline {subsection}{Episode 33.5c: Two days from retirement}{103}%
+\contentsline {subsection}{Episode 33.75: Bobacious Takes On Chrismas}{105}%
+\contentsline {subsection}{Episode 34: Turning Masudese}{109}%
+\contentsline {section}{Episode 35: Lord of Lightning Shifts His Gaze}{112}%
+\contentsline {chapter}{\numberline {6}Template Guide}{115}%
+\contentsline {section}{Section}{115}%
+\contentsline {subsection}{Subsection}{115}%
+\contentsline {subsubsection}{Subsubsection}{115}%
+\contentsline {paragraph}{Paragraph}{115}%
+\contentsline {subparagraph}{Subparagraph}{115}%
+\contentsline {section}{Items and Spells}{115}%
+\contentsline {subsubsection}{Foo's Quill}{115}%
+\contentsline {subsubsection}{Beautiful Typesetting}{115}%
+\contentsline {section}{Map Regions}{115}%
+\contentsline {subsection}{1. Village of Hommlet}{115}%
+\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{115}%
+\contentsline {subsubsection}{1b. Blacksmith's Forge}{115}%
+\contentsline {subsection}{2. Foo's Castle}{115}%
+\contentsline {subsubsection}{2a. Moat}{115}%
+\contentsline {subsubsection}{2b. Entrance}{115}%
+\contentsline {chapter}{\numberline {7}Text Boxes}{116}%
+\contentsline {section}{As an Aside}{116}%
+\contentsline {section}{Tables}{116}%
+\contentsline {chapter}{\numberline {8}Monsters and NPCs}{117}%
+\contentsline {chapter}{\numberline {9}Colors}{118}%
+\contentsline {section}{Themed Colors}{118}%
