@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.19)  19 FEB 2020 22:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.19)  19 FEB 2020 22:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**velterra.tex
+**velterra
 (./velterra.tex
 LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (./lib/dnd/dndbook.cls
+L3 programming layer <2020-02-14> (./dndbook.cls
 (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2020-02-14 L3 programming layer (loader) 
 
@@ -15,7 +15,7 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__pdf_internal_box=\box45
 ))
 Document Class: dndbook 2019/07/18 v0.7.1  Template for DnD 5e material 
-(./lib/dnd/dndoptions.clo
+(./dndoptions.clo
 (/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
 )
@@ -45,8 +45,7 @@ File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-)
-(./lib/dnd/dndcore.def
+) (./dndcore.def
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen135
@@ -700,11 +699,11 @@ Package multicol Warning: May not work with the twocolumn option on input line
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ))
-(./lib/dnd/lib/compat.sty) (./lib/dnd/lib/dndutility.sty
+(./lib/compat.sty) (./lib/dndutility.sty
 \l__dnd_space_box=\box119
 \l__dnd_space_dim=\dimen274
-)
-(./lib/dnd/lib/dndcolors.sty) (./lib/dnd/lib/dndfonts.sty
+) (./lib/dndcolors.sty)
+(./lib/dndfonts.sty
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2019-04-06 v2.22 (Daniel Flipo)
 
@@ -809,7 +808,7 @@ File: t1pbk.fd 2001/06/04 font definitions for T1/pbk.
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 112.
 ))
-(./lib/dnd/lib/dndstrings.sty) (./lib/dnd/lib/dnddeprecated.sty
+(./lib/dndstrings.sty) (./lib/dnddeprecated.sty
 (/usr/local/texlive/2019/texmf-dist/tex/latex/keycommand/keycommand.sty
 Package: keycommand 2010/04/27 v3.1415 - key-value interface for commands and e
 nvironments in LaTeX
@@ -887,7 +886,7 @@ Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 \c@SubArea=\count324
 \c@DetailArea=\count325
 )
-(./lib/dnd/lib/dndcomment.sty) (./lib/dnd/lib/dndheader.sty
+(./lib/dndcomment.sty) (./lib/dndheader.sty
 (/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
@@ -901,16 +900,15 @@ s
 \f@nch@O@olf=\skip120
 \f@nch@O@orf=\skip121
 ))
-(./lib/dnd/lib/dndmonster.sty
+(./lib/dndmonster.sty
 \enitdp@__dnd_monster_attributes=\count326
 \enitdp@DndMonsterSpells=\count327
 \enitdp@DndMonsterLegendaryActions=\count328
-) (./lib/dnd/lib/dndreadaloud.sty)
-(./lib/dnd/lib/dndsections.sty
+) (./lib/dndreadaloud.sty) (./lib/dndsections.sty
 \c@DndAreaCounter=\count329
 \c@DndSubAreaCounter=\count330
-) (./lib/dnd/lib/dndsidebar.sty)))
-(./lib/dnd/lib/dndtable.sty
+)
+(./lib/dndsidebar.sty))) (./lib/dndtable.sty
 \l__dnd_table_width_dim=\dimen294
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
@@ -1074,9 +1072,8 @@ File: lstlang3.sty 2019/09/10 1.8c listings language file
 (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 )
-(./lib/dnd/lib/languages/italian.sty) (./lib/dnd/lib/languages/japanese.sty)
-(./lib/dnd/lib/languages/ngerman.sty) (./lib/dnd/lib/languages/russian.sty)
-(./velterra.aux)
+(./lib/languages/italian.sty) (./lib/languages/japanese.sty)
+(./lib/languages/ngerman.sty) (./lib/languages/russian.sty) (./velterra.aux)
 \openout1 = `velterra.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -1235,11 +1232,11 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 63.
 
 [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./lib/d
-nd/img/paper.jpg> <./img/mockCover.pdf> <./lib/dnd/img/footerscroll.pdf
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/p
+aper.jpg> <./img/mockCover.pdf> <./img/footerscroll.pdf
 
-pdfTeX warning: pdflatex (file ./lib/dnd/img/footerscroll.pdf): PDF inclusion: 
-multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./img/footerscroll.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
 >]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -1348,7 +1345,174 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 55.
  <./content/img/teamPhoto.png>])
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 71.
- (./velterra.toc)
+ (./velterra.toc
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <10> not available
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <7> not available
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <5> not available
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+ [][] \T1/pbk/l/n/10 (+20) Episode 2: In the Tiki, Tiki, Tiki, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+ [][] \T1/pbk/l/n/10 (+20) Episode 7: Mys-te-ri-ous In-ci-dent of 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+ [][] \T1/pbk/l/n/10 (+20) Episode 9: Live Free or R.I.P. Hard 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+ \T1/pbk/l/n/10 (+20) (In lov-ing mem-ory of Lady 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+ [][] \T1/pbk/l/n/10 (+20) Episode 9.1: Kolo's Tale (Part 1): 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+ \T1/pbk/l/n/10 (+20) The Greasy Rage of Clan 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+ [][] \T1/pbk/l/n/10 (+20) Episode 9.2: Kolo's Tale (Part 2): 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+ [][] \T1/pbk/l/n/10 (+20) Episode 9.3: Kolo's Tale (Part 3): 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+ [][] \T1/pbk/l/n/10 (+20) Episode 10: A Pret-zel of Point-less 
+ []
+
+
+Overfull \hbox (7.6757pt too wide) in paragraph at lines 98--98
+ [][] \T1/pbk/l/n/10 (-20) Episode 11: Voy-agers of the Cloud-ship 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+ [][] \T1/pbk/l/n/10 (+20) Episode 15: Just Dessert - and 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+ [][] \T1/pbk/l/n/10 (+20) Episode 16: I'll Bite your fack-ing 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+ [][] \T1/pbk/l/n/10 (+20) Episode 18: Why Do You Guild Me 
+ []
+
+
+Overfull \hbox (2.24603pt too wide) in paragraph at lines 106--106
+ [][] \T1/pbk/l/n/10 (-20) Episode 19: Shop-ping Land Busi-ness 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+ [][] \T1/pbk/l/n/10 (+20) Episode 20: Biz-znizz for Banks & 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+ \T1/pbk/l/n/10 (+2) Eman-ci-pa-tion for the Few not 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+ [][] \T1/pbk/l/n/10 (+20) Episode 23: Il-le-gal Fake Gob-lin 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+ [][] \T1/pbk/l/n/10 (+20) Episode 24: The Bright-est Flame 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+ [][] \T1/pbk/l/n/10 (+20) Episode 25: Ter-ri-ble Tre-buchets 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+ [][] \T1/pbk/l/n/10 (+20) Episode 27: Mak-ing New Friends is Fun 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+ [][] \T1/pbk/l/n/10 (+20) Episode 30: Lessons in Colour 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+ [][] \T1/pbk/l/n/10 (+20) Episode 33: I Aint Afraid of No... Semi- 
+ []
+
+
+Overfull \hbox (9.93956pt too wide) in paragraph at lines 121--121
+ [][] \T1/pbk/l/n/10 (-20) Episode 33.5a: Quan-tum Book-burn-ers 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+ \T1/pbk/l/n/10 (+20) Creed: Spe-cial Child Meat 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+ [][] \T1/pbk/l/n/10 (+20) Episode 33.5c: Two days from 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+ [][] \T1/pbk/l/n/10 (+20) Episode 33.75: Boba-cious Takes 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+ [][] \T1/pbk/l/n/10 (+20) Episode 35: Lord of Light-ning Shifts His 
+ []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 140.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 140.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 140.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 140.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[3
+
+
+])
 \tf@toc=\write6
 \openout6 = `velterra.toc'.
 
@@ -1368,30 +1532,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 73.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-
-[3
-
-
-]
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 73.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 73.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 73.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 73.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [4
-
-]
+ [4]
 Chapter 1.
 (./content/story/background.tex
 <./content/img/flatVelterra.png, id=42, 1626.075pt x 1190.4475pt>
@@ -1427,6 +1568,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 21.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [1
+
 
 
  <./content/img/flatVelterra.png>]
@@ -2658,8 +2800,6 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 41.41977pt (T);
 (lettrine.sty)             reported on input line 3.
-LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <10> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 11.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 34.
@@ -3736,8 +3876,6 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 22.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [90]
-LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 25.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 26.
@@ -4729,10 +4867,6 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 41.41977pt (T);
 (lettrine.sty)             reported on input line 158.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 158.
-LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <7> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 158.
 LaTeX Font Info:    Font shape `T1/pbk/b/sl' in size <10> not available
 (Font)              Font shape `T1/pbk/db/sl' tried instead on input line 169.
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 17
@@ -4972,9 +5106,6 @@ Package microtype Info: Character `029' is missing
 
 LaTeX Warning: \verb may be unreliable inside tabularx on input line 376.
 
-
-LaTeX Warning: Reference `tab:colors' on page 132 undefined on input line 389.
-
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 445.
@@ -4993,39 +5124,32 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 445.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [132
 
-] (./velterra.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (./velterra.aux) ) 
 Here is how much of TeX's memory you used:
- 30677 strings out of 481239
- 598013 string characters out of 5917873
+ 30674 strings out of 481239
+ 597651 string characters out of 5917873
  1226362 words of memory out of 5000000
  44918 multiletter control sequences out of 15000+600000
  633474 words of font info for 185 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,18n,122p,15789b,2254s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2019/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}</usr/local/texli
-ve/2019/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb></usr/lo
-cal/texlive/2019/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-BoldItal
-ic.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/arkandis/gillius/Gillius
-ADFNo2-Italic.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/arkandis/gill
-ius/GilliusADFNo2-Regular.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/p
-ublic/initials/RoyalIn.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public
-/kpfonts/jkpssbsc8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/
-kpfonts/jkpssmsc8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/book
-man/ubkd8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/bookman/ubkd
-8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb><
-/usr/local/texlive/2019/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb></usr/lo
-cal/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texl
-ive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on velterra.pdf (138 pages, 56078008 bytes).
+ 70i,18n,122p,15785b,2254s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r
+.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc
+}</usr/local/texlive/2019/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2
+-Bold.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/arkandis/gillius/Gill
+iusADFNo2-BoldItalic.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/arkand
+is/gillius/GilliusADFNo2-Italic.pfb></usr/local/texlive/2019/texmf-dist/fonts/t
+ype1/arkandis/gillius/GilliusADFNo2-Regular.pfb></usr/local/texlive/2019/texmf-
+dist/fonts/type1/public/initials/RoyalIn.pfb></usr/local/texlive/2019/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2019/texmf-dist/
+fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/local/texlive/2019/texmf-dist/f
+onts/type1/public/kpfonts/jkpssmsc8a.pfb></usr/local/texlive/2019/texmf-dist/fo
+nts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type
+1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/bo
+okman/ubkl8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/bookman/ub
+kli8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrb8a.pf
+b></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on velterra.pdf (138 pages, 56083292 bytes).
 PDF statistics:
  605 PDF objects out of 1000 (max. 8388607)
  359 compressed objects within 4 object streams
